@@ -1,0 +1,14 @@
+{
+	"name": "blowfishx",
+	"version": "0.0.1",
+	"author": "Teoman Tuncer <teomantuncer@gmail.com> (https://teomantuncer.com)",
+	"description": "Port of the Sladex BlowfishJS to modern JS",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/teomantuncer/blowfishx.git"
+	},
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {},
+	"license": "gpl-3.0"
+}
